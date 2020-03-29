@@ -1,6 +1,5 @@
 ---
-title: "Welcome to Jekyll!"
-published: true
+layout: default
 ---
 
 **Hello world**, this is my first Jekyll blog post.
