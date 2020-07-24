@@ -14,6 +14,3 @@ I have used many Bitcoin wallets and tested against many possible scenarios and 
 #### Why I choose this wallet?
 I prefer using bitcoin wallets that can be used in all devices, like Phone and PC.
 In case you lose access to your phone, you can still import the seed (mnemonic phrase) into the Electrum Desktop wallet available in Linux, Mac or Windows to send & receive payments.
-
-
-## <a href="http://www.freebiebitcoin.com">Earn free bitcoin</a>
