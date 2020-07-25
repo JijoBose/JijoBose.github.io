@@ -5,7 +5,7 @@ published: true
 
 ## Create new Rails application
 ``
-rails new AwesomeProject --skip-active-record
+rails new AwesomeProject --skip-active-record --skip-bundle
 ``
 
 ## Install the gem
@@ -22,4 +22,12 @@ Generate Mongoid default configuration file for you by running the following com
 
 ``
 $ rails g mongoid:config
+``
+
+## Webpacker
+
+Finally Install the webpacker
+
+``
+$ rails webpacker:install
 ``
