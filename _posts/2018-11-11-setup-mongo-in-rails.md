@@ -8,6 +8,7 @@ published: true
 rails new AwesomeProject --skip-active-record --skip-bundle
 ``
 
+
 ## Install the gem
 ``
 gem 'mongoid', '~> 7.0'
@@ -16,6 +17,7 @@ gem 'mongoid', '~> 7.0'
 ``
 gem 'bson_ext'
 ``
+
 
 ## Configure
 Generate Mongoid default configuration file for you by running the following command:
