@@ -23,8 +23,3 @@ In case you lose access to your phone, you can still import the seed (mnemonic p
 #### Note: Electrum also has an Android app, but I found it really slow and needs a lot of improvement in the UI and performance.
 
 
-#### My Bitcoin Address
-
-<div style="background-color: white; width: 240px; height: 240px">
-  <img src="{{ "/assets/bitcoin-address.png" }}" height="200" style="margin-left: 17px; margin-top: 10px;"/>
-</div>
