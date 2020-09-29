@@ -1,5 +1,5 @@
 ---
-title: "Best Bitcoin wallet setup"
+title: "Best Bitcoin wallet and setup"
 published: true
 ---
 
