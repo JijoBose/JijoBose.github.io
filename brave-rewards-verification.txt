@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jijobose.com
+Token: e0900b141532a7f6cfbad60d86b95f5a42faac798fb6822843e719de5516600c
