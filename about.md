@@ -2,9 +2,6 @@
 layout: default
 ---
 
-I hope you like it!
-
-
 
 <img src="https://pbs.twimg.com/profile_images/1363319663157866503/60mhCUht_400x400.jpg" />
 
