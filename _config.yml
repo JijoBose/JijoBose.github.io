@@ -47,21 +47,21 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: React Native
-    web_url: https://github.com/topics/react-native
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png
-
   - name: Ruby on Rails
     web_url: https://github.com/topics/ruby-on-rails
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png
 
-  - name: Flutter
-    web_url: https://github.com/topics/flutter
-    image_url: https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png
+  - name: React Native
+    web_url: https://github.com/topics/react-native
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png
 
   - name: JavaScript
     web_url: https://github.com/topics/javascript
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
+
+  - name: Flutter
+    web_url: https://github.com/topics/flutter
+    image_url: https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png
 
   - name: Dart
     web_url: https://github.com/topics/dart
